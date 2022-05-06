@@ -1,0 +1,4 @@
+Sei que estou no início de minha jornada neste BootCamp, mas desde já sou imensamente grato a todo conhecimento que esta sendo passado,
+já possuo uma certa base, mas algo sempre ficou muito confuso para mim foi a funcionalidade do Git/GitHub, como por exemplo 
+eu não fazia ideia que Git e GitHub eram coisas diferentes! kkkkk
+Enfim... Obrigado a todos!
